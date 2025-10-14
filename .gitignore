@@ -1,0 +1,13 @@
+# Test files
+*.c
+test/
+*.bat
+*.o
+*.out
+
+
+# Interpreter files
+lockf/
+*.exe
+*.sh
+*.dll
