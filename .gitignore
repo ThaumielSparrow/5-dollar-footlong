@@ -11,3 +11,8 @@ lockf/
 *.exe
 *.sh
 *.dll
+
+# Tritium bypass
+tritium/
+!tritium/
+!tritium/**
