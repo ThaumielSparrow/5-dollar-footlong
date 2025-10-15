@@ -13,6 +13,7 @@ lockf/
 *.dll
 
 # Tritium bypass
-tritium/
 !tritium/
 !tritium/**
+tritium/**/*.o
+tritium/**/*.out
